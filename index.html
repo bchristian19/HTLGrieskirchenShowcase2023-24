@@ -173,12 +173,15 @@
             var output = "";
             switch (status) {
                 case -1:
+                case "-1":
                     output = "broken";
                     break;
                 case 0:
+                case "0":
                     output = "partly";
                     break;
                 case 1:
+                case "1":
                     output = "working";
                     break;
                 default:
