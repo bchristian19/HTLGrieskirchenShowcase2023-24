@@ -22,5 +22,13 @@
         "year": "2023_WS",
         "info": "Some kind of a copy of Tetris",
         "status": "1"
+    },
+    {
+        "title": "CalLuna",
+        "folder": "RoitingerD190181_CalLuna",
+        "author": "Roitinger David",
+        "year": "2023_WS",
+        "info": "Laser Spiders! Because why not?",
+        "status": "1"
     }
 ]
