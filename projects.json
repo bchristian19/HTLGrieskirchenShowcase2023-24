@@ -1,6 +1,4 @@
 [
-  <<<<<<<
-  HEAD
   {
     "title": "project title",
     "folder": "name of the folder",
@@ -79,6 +77,14 @@
     "author": "Gierlinger Jakob",
     "year": "2023_WS",
     "info": "Stealth Game! UwU",
+    "status": "1"
+  },
+  {
+    "title": "TowerDefence",
+    "folder": "HintereggerJ190292TowerDefence",
+    "author": "Hinteregger Jeronimo",
+    "year": "2023_WS",
+    "info": "Tower Defence Game! :3",
     "status": "1"
   }
 ]
